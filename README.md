@@ -9,8 +9,6 @@ Um supermercado, através de cartões de fidelidade, possui alguns dados básico
 
 [Link original para o dataset](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
-Projeto de ensino utilizado em curso de Ciência de Dados ministrado por mim para a [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/).
-
 <p align="center"> 
   <a href="https://www.linkedin.com/in/thr0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
